@@ -1,0 +1,8 @@
+# ignore venv directories
+venv/*
+
+# ignore .git directories
+.git/*
+
+# ignore infrastructure variables
+.env
